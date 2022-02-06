@@ -8,3 +8,6 @@ Letakkan file prefil (.prf) pada folder prefil di repository ini, kemudian jalan
 `docker-compose up -d`
 
 buka aplikasi seperti biasa di alamat localhost:8082
+
+# sumber
+https://www.kadekjayak.web.id/install-feeder-pddikti-dengan-docker/
